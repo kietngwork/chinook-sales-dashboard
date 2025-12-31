@@ -47,6 +47,15 @@ Below is the overview page from the Power BI dashboard, with additional examples
 
 <img width="668" height="261" alt="image" src="https://github.com/user-attachments/assets/db958fc7-df4b-4ae8-9b0c-a931f846a87d" />
 
+**Market Performance**
+- **The United States is the dominant market**, contributing the majority of total sales and orders, making it the primary growth driver but also a concentration risk.
+- **Canada and France** follow as secondary markets, providing steady contributions but at significantly lower scale.
+- Several smaller markets show **lower order counts but higher AOV**, suggesting opportunities for **targeted pricing, bundling, or niche-focused strategies**.
+- Overall market performance reflects a **strong core market supported by long-tail international demand**, where growth potential lies in optimization rather than broad expansion.
+
+<img width="660" height="269" alt="image" src="https://github.com/user-attachments/assets/08160a7a-35b3-4c7c-8581-761ed5643f60" />
+
+
 
 
 
