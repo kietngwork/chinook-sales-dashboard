@@ -38,5 +38,13 @@ Below is the overview page from the Power BI dashboard, with additional examples
 
 <img width="1325" height="749" alt="image" src="https://github.com/user-attachments/assets/005563c8-fff7-49b4-8bcd-49656db94a15" />
 
+**Sales Trends**
+- **Sales remain relatively stable over time**, indicating a mature and predictable revenue pattern rather than volatility.
+- A **clear peak around 2010** sets a high comparison base, leading to **normalized growth** in later years.
+- **Mid-year months (June–August)** consistently outperform, suggesting **seasonal demand strength** during this period.
+- A **dip toward November** followed by a **mild December recovery** points to **short-term seasonal softness rather than structural decline**.
+- Growth is **driven primarily by order volume**, not higher spend per order, highlighting opportunities to **optimize Average Order Value**.
+
+
 
 
