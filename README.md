@@ -38,7 +38,8 @@ Below is the overview page from the Power BI dashboard, with additional examples
 
 <img width="1278" height="723" alt="image" src="https://github.com/user-attachments/assets/41e008e4-44c9-4571-a45f-4521aabf2f4e" />
 
-**Sales Trends**
+
+**Sales Trends:**
 - **Sales remain relatively stable over time**, indicating a mature and predictable revenue pattern rather than volatility.
 - A **clear peak around 2010** sets a high comparison base, leading to **normalized growth** in later years.
 - **Mid-year months (June–August)** consistently outperform, suggesting **seasonal demand strength** during this period.
@@ -47,7 +48,8 @@ Below is the overview page from the Power BI dashboard, with additional examples
 
 <img width="668" height="261" alt="image" src="https://github.com/user-attachments/assets/db958fc7-df4b-4ae8-9b0c-a931f846a87d" />
 
-**Market Performance**
+
+**Market Performance:**
 - **The United States is the dominant market**, contributing the majority of total sales and orders, making it the primary growth driver but also a concentration risk.
 - **Canada and France** follow as secondary markets, providing steady contributions but at significantly lower scale.
 - Several smaller markets show **lower order counts but higher AOV**, suggesting opportunities for **targeted pricing, bundling, or niche-focused strategies**.
