@@ -11,9 +11,6 @@ Rather than focusing on advanced machine learning, the project emphasizes:
 - Star and snowflake schema design  
 - Business-driven analytical use cases  
 
-**Core Business Question**  
-> How can a transactional digital media database be transformed into a scalable data warehouse that supports efficient, insight-driven analytics?
-
 ---
 
 ## 2. Data Structure & Initial Checks
