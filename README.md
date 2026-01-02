@@ -1,5 +1,7 @@
 # 💿 Chinook Digital Media Store  
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/62f4903e-e6dd-453b-892b-f7bab4873f19" />
+
 ## 1. Background & Overview
 Digital media platforms generate large volumes of transactional data from customer purchases, content catalogs, and employee operations. While transactional (OLTP) databases are effective for daily operations, they are not optimized for analytical queries such as customer behavior analysis, sales trends, or product performance evaluation.
 
