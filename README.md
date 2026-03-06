@@ -1,4 +1,4 @@
-# 💿 Chinook Digital Media Store  
+# 💿 Chinook Digital Music Store 
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/62f4903e-e6dd-453b-892b-f7bab4873f19" />
 
